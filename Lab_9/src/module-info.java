@@ -1,2 +1,3 @@
-module Lab_9 {
+module Lab_9 
+{
 }
